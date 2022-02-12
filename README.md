@@ -1,4 +1,4 @@
-# CODER Competitive Programming 2022
+# CODER Competitive Programming 2022 👨‍💻
 
 <!-- |                |ASCII                          |
 |----------------|-------------------------------|
@@ -6,7 +6,15 @@
 |Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
 |Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash| -->
 ### Gathering Code
-  * [Gathering 1](1-Gathering-Code/Gathering-1/README.md)
-  * [Gathering 2](1-Gathering-Code/Gathering-2/README.md)
+  * Gathering 1 (Searching)
+
+  [binary-search.cpp](1-Gathering-Code/Gathering-1/binary-search.cpp)
+  
+  [sequential-search.cpp](1-Gathering-Code/Gathering-1/sequential-search.cpp)
+
+
+  * Gathering 2 (Sorting)
+
+  
 
 ### Members Tasks
