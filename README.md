@@ -8,9 +8,9 @@
 ### Gathering Code
   * Gathering 1 (Searching)
 
-  [binary-search.cpp](1-Gathering-Code/Gathering-1/binary-search.cpp)
-  
-  [sequential-search.cpp](1-Gathering-Code/Gathering-1/sequential-search.cpp)
+      [binary-search.cpp](1-Gathering-Code/Gathering-1/binary-search.cpp)
+      
+      [sequential-search.cpp](1-Gathering-Code/Gathering-1/sequential-search.cpp)
 
 
   * Gathering 2 (Sorting)
